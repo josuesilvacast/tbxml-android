@@ -1,0 +1,33 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/masashi/Documents/workspace2/tbxml-android/tbxml/src/main/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/masashi/Documents/workspace2/tbxml-android/tbxml/src/main/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/masashi/Documents/workspace2/tbxml-android/tbxml/src/main/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/masashi/Documents/workspace2/tbxml-android/tbxml/src/main/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/masashi/Documents/workspace2/tbxml-android/tbxml/src/main/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/masashi/Documents/workspace2/tbxml-android/tbxml/src/main/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/masashi/Documents/workspace2/tbxml-android/tbxml/src/main/AndroidManifest.xml:2:1-7:12
+	package
+		ADDED from /Users/masashi/Documents/workspace2/tbxml-android/tbxml/src/main/AndroidManifest.xml:3:11-32
+		INJECTED from /Users/masashi/Documents/workspace2/tbxml-android/tbxml/src/main/AndroidManifest.xml
+		INJECTED from /Users/masashi/Documents/workspace2/tbxml-android/tbxml/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/masashi/Documents/workspace2/tbxml-android/tbxml/src/main/AndroidManifest.xml
+		ADDED from /Users/masashi/Documents/workspace2/tbxml-android/tbxml/src/main/AndroidManifest.xml:2:1-7:12
+		INJECTED from /Users/masashi/Documents/workspace2/tbxml-android/tbxml/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/masashi/Documents/workspace2/tbxml-android/tbxml/src/main/AndroidManifest.xml
+		ADDED from /Users/masashi/Documents/workspace2/tbxml-android/tbxml/src/main/AndroidManifest.xml:2:1-7:12
+		INJECTED from /Users/masashi/Documents/workspace2/tbxml-android/tbxml/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/masashi/Documents/workspace2/tbxml-android/tbxml/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/masashi/Documents/workspace2/tbxml-android/tbxml/src/main/AndroidManifest.xml:5:2-71
+INJECTED from /Users/masashi/Documents/workspace2/tbxml-android/tbxml/src/main/AndroidManifest.xml:5:2-71
+INJECTED from /Users/masashi/Documents/workspace2/tbxml-android/tbxml/src/main/AndroidManifest.xml:5:2-71
+	android:targetSdkVersion
+		ADDED from /Users/masashi/Documents/workspace2/tbxml-android/tbxml/src/main/AndroidManifest.xml:5:39-68
+	android:minSdkVersion
+		ADDED from /Users/masashi/Documents/workspace2/tbxml-android/tbxml/src/main/AndroidManifest.xml:5:12-38
+		INJECTED from /Users/masashi/Documents/workspace2/tbxml-android/tbxml/src/main/AndroidManifest.xml
+		INJECTED from /Users/masashi/Documents/workspace2/tbxml-android/tbxml/src/main/AndroidManifest.xml
