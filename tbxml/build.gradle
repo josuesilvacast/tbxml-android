@@ -1,10 +1,18 @@
 buildscript {
     repositories {
         mavenCentral()
+        jcenter()
         google()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:3.0.1'
+        classpath 'com.android.tools.build:gradle:3.1.2'
+    }
+}
+allprojects {
+    repositories {
+        jcenter()
+        mavenCentral()
+        google()
     }
 }
 
@@ -12,7 +20,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 19
-    buildToolsVersion "27.0.2"
+    buildToolsVersion "27.0.3"
 
     defaultConfig {
         minSdkVersion 19
@@ -26,6 +34,10 @@ android {
             jniLibs.srcDir "src/main/libs"
         }
     }
+
+    lintOptions {
+        abortOnError false
+    }
 }
 
 
@@ -36,7 +48,7 @@ uploadArchives {
     repositories {
         mavenDeployer {
             repository url: "file://${repo.absolutePath}"
-            pom.version = "1.0.0"
+            pom.version = "1.0.1"
             pom.groupId = "za.co.twyst"
             pom.artifactId = "tbxml"
         }
